@@ -1,0 +1,51 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.main h1{
+	margin-top:20px;
+	text-align:center;
+	color:white;
+}
+.main img{
+	height:250px;
+	width:800px;
+    margin-top:25px;
+	margin-left:90px;
+}
+.main p{
+	margin-top:20px;
+	text-align:center;
+	width:80%;
+	margin-left:70px;
+	color:white;
+	font-style:verdana;
+	
+}
+.main h2{
+	margin-top:20px;
+	text-align:left;
+	margin-left:70px;
+	color:white;
+}
+.main h3{
+	margin-top:20px;
+	text-align:left;
+	margin-left:70px;
+	color:white;
+}
+.points ul li{margin-top:20px;
+	text-align:left;
+	margin-left:70px;
+	color:white;
+}
+.side img{
+	height:250px;
+	width:360px;
+    margin-top:-550px;
+	margin-left:550px;
+}
+
+

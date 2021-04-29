@@ -1,0 +1,37 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.place h1{
+	margin-top:20px;
+	text-align:center;
+	color:white;
+}
+.place p{
+	margin-top:20px;
+	text-align:center;
+	width:80%;
+	margin-left:70px;
+	color:white;
+	font-style:verdana;
+	
+}
+.place ul li{margin-top:20px;
+	text-align:left;
+	margin-left:150px;
+	color:white;
+}
+.picture img{
+	height:150px;
+	width:220px;
+    margin-top:-250px;
+	margin-left:450px;
+}
+.picture1 img{
+	height:150px;
+	width:220px;
+    margin-top:-100px;
+	margin-left:650px;
+}
